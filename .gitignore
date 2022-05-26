@@ -39,3 +39,6 @@ EditorUserSettings.asset
 *.apk
 *.unitypackage
 UserSettings/EditorUserSettings.asset
+
+#
+.env
